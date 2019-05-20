@@ -7,5 +7,6 @@ class Vehicle
   end
   
   def global_variables
-    
+    "vrrrrrrrooom!"
+  end
 end
