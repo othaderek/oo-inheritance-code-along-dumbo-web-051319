@@ -8,5 +8,9 @@ class Vehicle
   
   def global_variables
     "vrrrrrrrooom!"
+  end 
+  
+  def fill_up_tank
+    "filling up!"
   end
 end
